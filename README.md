@@ -6,6 +6,4 @@ This applications connects to the [AWS SAM](https://github.com/aaronwht/aws-sam)
 ### This repo includes the UI for the AWS SAM project.
 
 .env file:  
-`REACT_APP_API=http://localhost:3030/` . 
-
-If this helped you consider making a one time $1-$3 donation to support me at [Patreon](https://www.patreon.com/aaronwht)
+`REACT_APP_API=http://localhost:3030/`.
